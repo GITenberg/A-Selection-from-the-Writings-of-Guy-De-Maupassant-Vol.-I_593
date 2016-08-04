@@ -1,0 +1,50 @@
+_repo: A-Selection-from-the-Writings-of-Guy-De-Maupassant-Vol.-I_593
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Arnot, Robert
+    birthdate: 1860
+    gutenberg_agent_id: '35093'
+    url: http://www.gutenberg.org/2009/agents/35093
+  - agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Paul Charles Joseph
+    - Bourget, Charles Joseph Paul
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: Mademoiselle Fifi -- An affair of state -- The artist -- The horla
+  -- Miss Harriet -- The hole -- Love -- The inn -- A family -- Bellflower -- Who
+  knows? -- The devil -- Epiphany -- Simon's papa -- Waiter, a "bock" -- The sequel
+  to a divorce -- The mad woman -- In various roles -- The false gems -- Countess
+  Satan -- The colonel's ideas -- Two little soldiers -- Ghosts -- Was it a dream?
+  -- The diary of a madman -- An unfortunate likeness -- A country excursion.
+title: A Selection from the Writings of Guy De Maupassant, Vol. I
+url: http://www.gutenberg.org/ebooks/593
