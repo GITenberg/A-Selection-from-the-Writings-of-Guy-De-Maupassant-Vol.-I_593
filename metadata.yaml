@@ -1,5 +1,5 @@
 _repo: A-Selection-from-the-Writings-of-Guy-De-Maupassant-Vol.-I_593
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introductions:
   - agent_name: Arnot, Robert
@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '1346'
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -27,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/593#A-Selection-from-the-Writings-of-Guy-De-Maupassant-Vol.-I
 gutenberg_issued: '1996-07-01'
 gutenberg_type: Text
 identifiers:
